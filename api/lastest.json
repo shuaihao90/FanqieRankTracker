@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-12",
-  "prev_date": "2026-10-11",
+  "date": "2026-10-13",
+  "prev_date": "2026-10-12",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 340
+      "book_count": 330
     },
     {
       "type": "古风世情",
@@ -66,7 +66,7 @@
     {
       "type": "快穿",
       "url": "api/lastest/%E5%BF%AB%E7%A9%BF.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "青春甜宠",
@@ -86,12 +86,12 @@
     {
       "type": "职场婚恋",
       "url": "api/lastest/%E8%81%8C%E5%9C%BA%E5%A9%9A%E6%81%8B.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "豪门总裁",
       "url": "api/lastest/%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81.json",
-      "book_count": 20
+      "book_count": 10
     },
     {
       "type": "民国言情",
